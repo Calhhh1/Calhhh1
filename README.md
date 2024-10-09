@@ -1,4 +1,0 @@
-- 👋 Hi, I’m @Disypherr
-- 👀 I’m interested in Software Development/Coding
-- 🌱 I’m currently learning Cyber Security
-- 😄 Pronouns: Attack Helicopter 🚁
